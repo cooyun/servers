@@ -33,6 +33,7 @@ These servers aim to demonstrate MCP features and the official SDKs.
 - **[Memory](src/memory)** - Knowledge graph-based persistent memory system.
 - **[Sequential Thinking](src/sequentialthinking)** - Dynamic and reflective problem-solving through thought sequences.
 - **[Time](src/time)** - Time and timezone conversion capabilities.
+- **[Etuki FinOps & LLM Pricing](https://www.npmjs.com/package/etuki-finops-mcp) - Real-time 2026 LLM API pricing calendar, 272K/100K context-cliff guardrails, and 4-tier OpenRouter router by [Etuki.com](https://www.etuki.com).
 
 ### Archived
 
